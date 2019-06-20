@@ -1,0 +1,11 @@
+/home/tomas/Escritorio/Osvaldo/Ejercicios/Ejercicios_Basicos_1/1/bin/Debug/netcoreapp2.2/1.deps.json
+/home/tomas/Escritorio/Osvaldo/Ejercicios/Ejercicios_Basicos_1/1/bin/Debug/netcoreapp2.2/1.runtimeconfig.json
+/home/tomas/Escritorio/Osvaldo/Ejercicios/Ejercicios_Basicos_1/1/bin/Debug/netcoreapp2.2/1.runtimeconfig.dev.json
+/home/tomas/Escritorio/Osvaldo/Ejercicios/Ejercicios_Basicos_1/1/bin/Debug/netcoreapp2.2/1.dll
+/home/tomas/Escritorio/Osvaldo/Ejercicios/Ejercicios_Basicos_1/1/bin/Debug/netcoreapp2.2/1.pdb
+/home/tomas/Escritorio/Osvaldo/Ejercicios/Ejercicios_Basicos_1/1/obj/Debug/netcoreapp2.2/1.csprojAssemblyReference.cache
+/home/tomas/Escritorio/Osvaldo/Ejercicios/Ejercicios_Basicos_1/1/obj/Debug/netcoreapp2.2/1.csproj.CoreCompileInputs.cache
+/home/tomas/Escritorio/Osvaldo/Ejercicios/Ejercicios_Basicos_1/1/obj/Debug/netcoreapp2.2/1.AssemblyInfoInputs.cache
+/home/tomas/Escritorio/Osvaldo/Ejercicios/Ejercicios_Basicos_1/1/obj/Debug/netcoreapp2.2/1.AssemblyInfo.cs
+/home/tomas/Escritorio/Osvaldo/Ejercicios/Ejercicios_Basicos_1/1/obj/Debug/netcoreapp2.2/1.dll
+/home/tomas/Escritorio/Osvaldo/Ejercicios/Ejercicios_Basicos_1/1/obj/Debug/netcoreapp2.2/1.pdb
