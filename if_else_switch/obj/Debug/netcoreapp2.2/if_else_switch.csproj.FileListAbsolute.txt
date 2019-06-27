@@ -1,0 +1,11 @@
+/home/tomas/Escritorio/csharpbootcamp/if_else_switch/bin/Debug/netcoreapp2.2/if_else_switch.deps.json
+/home/tomas/Escritorio/csharpbootcamp/if_else_switch/bin/Debug/netcoreapp2.2/if_else_switch.runtimeconfig.json
+/home/tomas/Escritorio/csharpbootcamp/if_else_switch/bin/Debug/netcoreapp2.2/if_else_switch.runtimeconfig.dev.json
+/home/tomas/Escritorio/csharpbootcamp/if_else_switch/bin/Debug/netcoreapp2.2/if_else_switch.dll
+/home/tomas/Escritorio/csharpbootcamp/if_else_switch/bin/Debug/netcoreapp2.2/if_else_switch.pdb
+/home/tomas/Escritorio/csharpbootcamp/if_else_switch/obj/Debug/netcoreapp2.2/if_else_switch.csprojAssemblyReference.cache
+/home/tomas/Escritorio/csharpbootcamp/if_else_switch/obj/Debug/netcoreapp2.2/if_else_switch.csproj.CoreCompileInputs.cache
+/home/tomas/Escritorio/csharpbootcamp/if_else_switch/obj/Debug/netcoreapp2.2/if_else_switch.AssemblyInfoInputs.cache
+/home/tomas/Escritorio/csharpbootcamp/if_else_switch/obj/Debug/netcoreapp2.2/if_else_switch.AssemblyInfo.cs
+/home/tomas/Escritorio/csharpbootcamp/if_else_switch/obj/Debug/netcoreapp2.2/if_else_switch.dll
+/home/tomas/Escritorio/csharpbootcamp/if_else_switch/obj/Debug/netcoreapp2.2/if_else_switch.pdb
