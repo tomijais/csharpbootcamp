@@ -1,0 +1,11 @@
+/home/tomas/Escritorio/csharpbootcamp/Conditional_Statement/Ej7/bin/Debug/netcoreapp2.2/Ej7.deps.json
+/home/tomas/Escritorio/csharpbootcamp/Conditional_Statement/Ej7/bin/Debug/netcoreapp2.2/Ej7.runtimeconfig.json
+/home/tomas/Escritorio/csharpbootcamp/Conditional_Statement/Ej7/bin/Debug/netcoreapp2.2/Ej7.runtimeconfig.dev.json
+/home/tomas/Escritorio/csharpbootcamp/Conditional_Statement/Ej7/bin/Debug/netcoreapp2.2/Ej7.dll
+/home/tomas/Escritorio/csharpbootcamp/Conditional_Statement/Ej7/bin/Debug/netcoreapp2.2/Ej7.pdb
+/home/tomas/Escritorio/csharpbootcamp/Conditional_Statement/Ej7/obj/Debug/netcoreapp2.2/Ej7.csprojAssemblyReference.cache
+/home/tomas/Escritorio/csharpbootcamp/Conditional_Statement/Ej7/obj/Debug/netcoreapp2.2/Ej7.csproj.CoreCompileInputs.cache
+/home/tomas/Escritorio/csharpbootcamp/Conditional_Statement/Ej7/obj/Debug/netcoreapp2.2/Ej7.AssemblyInfoInputs.cache
+/home/tomas/Escritorio/csharpbootcamp/Conditional_Statement/Ej7/obj/Debug/netcoreapp2.2/Ej7.AssemblyInfo.cs
+/home/tomas/Escritorio/csharpbootcamp/Conditional_Statement/Ej7/obj/Debug/netcoreapp2.2/Ej7.dll
+/home/tomas/Escritorio/csharpbootcamp/Conditional_Statement/Ej7/obj/Debug/netcoreapp2.2/Ej7.pdb
