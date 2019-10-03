@@ -1,0 +1,11 @@
+/home/tomas/Escritorio/csharpbootcamp/BobeFinder/bin/Debug/netcoreapp2.2/BobeFinder.deps.json
+/home/tomas/Escritorio/csharpbootcamp/BobeFinder/bin/Debug/netcoreapp2.2/BobeFinder.runtimeconfig.json
+/home/tomas/Escritorio/csharpbootcamp/BobeFinder/bin/Debug/netcoreapp2.2/BobeFinder.runtimeconfig.dev.json
+/home/tomas/Escritorio/csharpbootcamp/BobeFinder/bin/Debug/netcoreapp2.2/BobeFinder.dll
+/home/tomas/Escritorio/csharpbootcamp/BobeFinder/bin/Debug/netcoreapp2.2/BobeFinder.pdb
+/home/tomas/Escritorio/csharpbootcamp/BobeFinder/obj/Debug/netcoreapp2.2/BobeFinder.csprojAssemblyReference.cache
+/home/tomas/Escritorio/csharpbootcamp/BobeFinder/obj/Debug/netcoreapp2.2/BobeFinder.csproj.CoreCompileInputs.cache
+/home/tomas/Escritorio/csharpbootcamp/BobeFinder/obj/Debug/netcoreapp2.2/BobeFinder.AssemblyInfoInputs.cache
+/home/tomas/Escritorio/csharpbootcamp/BobeFinder/obj/Debug/netcoreapp2.2/BobeFinder.AssemblyInfo.cs
+/home/tomas/Escritorio/csharpbootcamp/BobeFinder/obj/Debug/netcoreapp2.2/BobeFinder.dll
+/home/tomas/Escritorio/csharpbootcamp/BobeFinder/obj/Debug/netcoreapp2.2/BobeFinder.pdb
