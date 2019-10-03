@@ -1,2 +1,3 @@
 # csharpbootcamp
-ejercicios osvaldo
+ejercicios del curso de osvaldo
+en C#
